@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marycheung021213
-- 👀 I’m interested in cs + art, like p5.js and processing
-- 🌱 I’m currently learning p5.js, processing, java
+- 👀 I’m an undergraduate student studied in BUPT
 - 📫 How to reach me marycheung021213@gmail.com
 
 <!---
