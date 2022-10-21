@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marycheung021213
-- 👀 I’m an undergraduate student studied in BUPT
-- 📫 How to reach me marycheung021213@gmail.com
+- 张家琪
+- 北邮20级数媒学院本科生
+- 联系我：1213385883@qq.com / marycheung021213@gmail.com
 
 <!---
 marycheung021213/marycheung021213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
