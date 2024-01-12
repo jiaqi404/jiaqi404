@@ -1,4 +1,5 @@
-- Hello world! It is Jiaqi.
+- Hello world! This is Jiaqi.
+- I am a developer & designer.
 - Contact me：2020211178@bupt.cn
 - My portfolio web: [hellojiaqi.com](https://hellojiaqi.com)
 
