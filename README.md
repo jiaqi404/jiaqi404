@@ -1,6 +1,6 @@
 - Hello world! This is Jiaqi.
 - I am a developer & designer.
-- Contact me：2020211178@bupt.cn
+- Contact me：marycheung021213@gmail.com
 - My portfolio web: [hellojiaqi.com](https://hellojiaqi.com)
 
 <!---
