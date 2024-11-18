@@ -4,7 +4,7 @@
 - 👾 Widespread interest in cs & design & game development
 ## Contact me & View my projects
 - 📧 Contact me by email! -> marycheung021213@gmail.com
-- 💻 My portfolio website -> [hellojiaqi.com](https://hellojiaqi.com)
+- 💻 My portfolio website -> [jiaqi404.github.io](https://jiaqi404.github.io)
 - 😊 My social media platform -> [Instagram](https://www.instagram.com/jiaqi_is_me) | [Behance](https://www.behance.net/hellojiaqi)
 
 <!---
