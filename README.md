@@ -1,7 +1,7 @@
 ## Hello world! This is Jiaqi.
 - 📍 I'm from Shenzhen and currently based on Hong Kong
 - 👩‍🎓 BUPT BEng Digital Media Technology 24' & HKPolyU MSc IME 25'
-- 👾 Widespread interest in cs & creative programming & game development & multimedia design
+- 👾 Widespread interest in cs & design & game development
 ## Contact me & View my projects
 - 📧 Contact me by email! -> marycheung021213@gmail.com
 - 💻 My portfolio website -> [hellojiaqi.com](https://hellojiaqi.com)
