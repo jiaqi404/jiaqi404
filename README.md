@@ -1,5 +1,10 @@
-<h4 align="center"><samp> 👩‍🎓💻🔮🎮🖤 </samp></h4>
-
+<h4 align="center"><samp> 
+  <p>👩‍🎓💻🔮🎮🖤</p> 
+  <p>Hello world! This is Jiaqi. I love coding something interesting.</p>
+  <p>Also, I am <a href="https://www.behance.net/hellojiaqi">a multimedia designer, </a>and <a href="https://captainceleste.itch.io/">a game developer.</a></p>
+  <p>Nice to meet you. <3</p>
+</samp></h4>
+    
 <!---
 ## Hello world! This is Jiaqi.
 - 📍 I'm from Shenzhen and currently based on Hong Kong
@@ -9,8 +14,4 @@
 - 📧 Contact me by email! -> marycheung021213@gmail.com
 - 💻 My portfolio website -> [jiaqi404.github.io](https://jiaqi404.github.io)
 - 😊 My social media platform -> [Instagram](https://www.instagram.com/jiaqi_is_me) | [Behance](https://www.behance.net/hellojiaqi)
---->
-<!---
-marycheung021213/marycheung021213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
