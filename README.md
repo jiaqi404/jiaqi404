@@ -1,10 +1,9 @@
 <h4 align="center"><samp> 
   <p>👩‍🎓💻🔮🎮🖤</p> 
-  <p>Hello world! This is Jiaqi. I love coding something interesting.</p>
-  <p>Also, I am <a href="https://www.behance.net/hellojiaqi">a multimedia designer, </a>and <a href="https://captainceleste.itch.io/">a game developer.</a></p>
-  <p>Nice to meet you. <3</p>
+  <p>Hi, I am Jiaqi. I love coding something interesting.</p>
+  <p>I am also <a href="https://www.behance.net/hellojiaqi">a multimedia designer, </a>and <a href="https://captainceleste.itch.io/">a game developer.</a></p>
+  <p><a href="https://jiaqi404.github.io">More about me</a></p>
 </samp></h4>
-    
 <!---
 ## Hello world! This is Jiaqi.
 - 📍 I'm from Shenzhen and currently based on Hong Kong
