@@ -1,6 +1,6 @@
 <h4 align="center"><samp> 
   <p>👩‍🎓💻🔮🎮🖤</p> 
-  <p>Hi, I am Jiaqi. I love coding something interesting, and I am currently into ML and procgen.</p>
+  <p>Hi, I am Jiaqi. I love coding something interesting. I am currently into ML and procgen.</p>
   <p>I am also <a href="https://www.behance.net/hellojiaqi">a multimedia designer, </a>and <a href="https://captainceleste.itch.io/">a game developer.</a></p>
   <p><a href="https://jiaqi404.github.io">More about me</a></p>
 </samp></h4>
